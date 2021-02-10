@@ -3,7 +3,7 @@
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Business System at Bharati Vidyapeeth College of engineering, Pune.
+- 🎓 &nbsp; Studying Computer Science and Business System at Bharati Vidyapeeth College of Engineering, Pune.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
