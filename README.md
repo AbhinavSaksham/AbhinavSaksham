@@ -36,6 +36,11 @@
 </a>
 
 <br/>
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="center">
+<a href="mailto:pandeyabhinav1998@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-pandeyabhinav1998@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
 
 
 
