@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science and Business System at Bharati Vidyapeeth College of Engineering, Pune.
-- 🌱 &nbsp; Learning more about Data Science , Systems Design and Artificial Intelligence.
+- 🌱 &nbsp; Learning more about Data Science , Systems Design, Full Stack Developer and Artificial Intelligence.
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 
