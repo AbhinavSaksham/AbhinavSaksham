@@ -1,7 +1,7 @@
 <h1> Hey there! I'm Abhinav Pandey.</h1>
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
-
+- 💻 &nbsp; Senior Software Engineer @ LTIMindtree
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Graduate of Computer Science and Business System from Bharati Vidyapeeth College of Engineering, Pune.
 - 🌱 &nbsp; Learning more about Data Science , Systems Design, Full Stack Developer and Artificial Intelligence.
