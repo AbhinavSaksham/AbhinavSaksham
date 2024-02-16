@@ -2,9 +2,9 @@
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 <br>- 💻 &nbsp; Senior Software Engineer @ LTIMindtree. </br>
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Graduate of Computer Science and Business Systems from Bharati Vidyapeeth College of Engineering, Pune.
-- 🌱 &nbsp; Learning more about Full Stack Development, Systems Design, Cloud &  Artificial Intelligence.
+<br>- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks. </br>
+<br>- 🎓 &nbsp; Graduate of Computer Science and Business Systems from Bharati Vidyapeeth College of Engineering, Pune. </br>
+<br>- 🌱 &nbsp; Learning more about Full Stack Development, Systems Design, Cloud &  Artificial Intelligence. </br>
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 
